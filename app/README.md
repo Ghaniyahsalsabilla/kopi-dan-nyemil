@@ -66,20 +66,29 @@ Screenshot setiap halaman aplikasi akan ditambahkan pada bagian ini.
 
 1. Welcome Page
 <img width="282" height="546" alt="Screenshot 2026-11-04 195306" src="https://github.com/user-attachments/assets/f0644641-7712-4483-8998-face3916c243" />
+
 <img width="280" height="556" alt="Screenshot 2026-11-04 195327" src="https://github.com/user-attachments/assets/f89b4951-38bd-4a55-82e0-7a88c01eada5" />
+
 2. Register Page
 <img width="283" height="558" alt="Screenshot 2026-11-04 195343" src="https://github.com/user-attachments/assets/a9e36c9d-7089-44dc-92d1-b8c6393bc32e" />
+
 3. Login Page
 <img width="276" height="552" alt="Screenshot 2026-11-04 195353" src="https://github.com/user-attachments/assets/41d1b533-fab2-4ca7-ab5f-58c6bc6ae908" />
+
 4. Home Page
 <img width="265" height="555" alt="Screenshot 2026-11-04 195445" src="https://github.com/user-attachments/assets/b67ede06-16fa-49e8-ba1a-4abda7d0e240" />
+
 <img width="261" height="552" alt="Screenshot 2026-11-04 195454" src="https://github.com/user-attachments/assets/e9182b20-ced6-423b-96d9-32751ffa9510" />
+
 5. Profile Page
 <img width="340" height="727" alt="Screenshot 2026-11-05 215052" src="https://github.com/user-attachments/assets/fba76083-0ab8-470c-ac25-b6b2e31e2980" />
+
 6. Delivery Address Page
 <img width="280" height="553" alt="Screenshot 2026-11-04 195506" src="https://github.com/user-attachments/assets/b9dbd3d8-0299-4dce-9bd1-c2272caa3ebd" />
+
 7. Order Confirmation 
 <img width="266" height="542" alt="Screenshot 2026-11-04 195529" src="https://github.com/user-attachments/assets/2f88d894-e128-498a-bdc5-d6c073babd08" />
+
 8. Order Success Page
 <img width="300" height="606" alt="Screenshot 2026-11-05 201515" src="https://github.com/user-attachments/assets/775d6a53-2ecb-40ce-b34a-b1fb5b0bad9f" />
 

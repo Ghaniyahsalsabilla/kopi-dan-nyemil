@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/off_white"
+    android:padding="28dp">
+
+    <TextView
+        android:layout_width="115dp"
+        android:layout_height="115dp"
+        android:background="@drawable/bg_logo_circle"
+        android:gravity="center"
+        android:text="☕"
+        android:textSize="48sp"
+        android:elevation="4dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Kopi dan Nyemil"
+        android:textColor="@color/brown"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Temukan kopi dan camilan\nfavoritmu di sini!"
+        android:textColor="@color/gray"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:lineSpacingExtra="4dp" />
+
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginTop="65dp"
+        android:text="Start Now"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:backgroundTint="@color/brown"
+        android:background="@drawable/bg_button" />
+
+</LinearLayout>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:layout_margin="8dp"
+    android:background="#F5F5F5">
+
+    <ImageView
+        android:id="@+id/ivProduct"
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true"
+        android:contentDescription="Foto produk"/>
+
+    <TextView
+        android:id="@+id/tvProductName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nama Produk"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/tvProductPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rp 0"
+        android:textSize="18sp"
+        android:textColor="@android:color/darker_gray"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/btnBuy"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="Pesan Sekarang"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>
